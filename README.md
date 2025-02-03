@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/status-completado-green)
+
 <h1 align="center"> Jogo Avinhação em Javascrpit. </h1>
 
 *<p>Jogo de avinhação onde o usuário pode escolher um número entre 1 e 10.</p>*
