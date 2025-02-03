@@ -5,7 +5,7 @@
 <p>O código gerará um número pseudo-aleatório de 1 até 10 não repetindo o anterior até que se complete os 10 números possiveis sorteados.</p>
 <p>O codigo também conta com um script que utiliza voz por IA reconhecida por navegaodres padrões para gerar um leitura automática dos textos na tela.</p>
 
-[LINK PARA O DE ADIVINHAÇÃO.](https://jogoadvinhacaojs.vercel.app/)
+[LINK PARA O JOGO DE ADIVINHAÇÃO.](https://jogoadvinhacaojs.vercel.app/)
 
 <h2>Tecnologias utilizadas</h2>
 </>JAVASCRIPT || HTML || CSS</p>
