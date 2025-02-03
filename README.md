@@ -9,7 +9,8 @@
 - <p>O codigo também conta com um script que utiliza voz por IA reconhecida por navegaodres padrões para gerar uma leitura automática dos textos na tela.</p>
 
 <h2> 🎮 Acesso ao jogo 🎮</h2>
-[LINK PARA O JOGO DE ADIVINHAÇÃO.](https://jogoadvinhacaojs.vercel.app/)
+
+[LINK PARA O JOGO DE ADIVINHAÇÃO](https://jogoadvinhacaojs.vercel.app/)
 
 <h3>Tecnologias utilizadas</h3>
 </>JAVASCRIPT || HTML || CSS</p>
