@@ -11,6 +11,7 @@
 
 <h2>Tecnologias utilizadas</h2>
 </>JAVASCRIPT || HTML || CSS</p>
+
 ![Static Badge](https://img.shields.io/badge/javascript-yellow)
 ![Static Badge](https://img.shields.io/badge/css-blue)
 ![Static Badge](https://img.shields.io/badge/html-orange)
