@@ -18,3 +18,8 @@
 ![Static Badge](https://img.shields.io/badge/javascript-yellow)
 ![Static Badge](https://img.shields.io/badge/css-blue)
 ![Static Badge](https://img.shields.io/badge/html-orange)
+
+<h4>AUTOR</h4>
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/159580121?v=4&size=64" width=115><br><sub>Felipe Santos</sub>](https://github.com/felipesantos71) |
+| :---: |
